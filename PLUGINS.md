@@ -1,4 +1,5 @@
 ## Plugins de terceros
+Durante los años que hemos utilizado XenForo lo hemos ido modificando y ajustando a nuestras necesidades específicas. Algunas de esas modificaciones provienen de plugins oficiales o de terceros mientras que otras vienen de modificaciones a la medida desarrolladas por nosotros. En todo este caminio se han cometido errores en las decisionnes sobre el uso de plugins de terceros que terminan siendo parte fundamental de nuestro sitio pero que dejan de ser soportados por sus autores originales. Es por esto que queremos orientarnos a una tendencia más abierta tanto en el desarrollo como en las librerías que utilizamos.
 
 Plugin | Comentarios
 --- | ---
