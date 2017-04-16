@@ -7,7 +7,7 @@ Actualmente los foros de Laneros.com se encuentran en la plataforma propietaria 
 
 ## Tabla de contenido
 - [Checklist](#checklist)
-- [Comparativo de características XenForo <-> Discourse](CARACTERISTICAS.md)
+- [Comparativo de características Laneros <-> Discourse](CARACTERISTICAS.md)
 - [Migración de datos](MIGRACION.md)
 - [Plugins de Discourse para complementar características faltantes](PLUGINS.md)
 - [Redirección de URLs](REDIRECCION.md)
