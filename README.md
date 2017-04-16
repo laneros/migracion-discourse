@@ -7,12 +7,12 @@ Actualmente los foros de Laneros.com se encuentran en la plataforma propietaria 
 
 ## Tabla de contenido
 - [Checklist](#checklist)
-- [Comparativo de características Laneros <-> Discourse](CARACTERISTICAS.md)
-- [Migración de datos](MIGRACION.md)
-- [Plugins de Discourse para complementar características faltantes](PLUGINS.md)
-- [Redirección de URLs](REDIRECCION.md)
-- [Desarrollo de características propias](DESARROLLO.md)
-- [Hosting](HOSTING.md)
+- [Comparativo de características Laneros <-> Discourse](docs/CARACTERISTICAS.md)
+- [Migración de datos](docs/MIGRACION.md)
+- [Plugins de Discourse para complementar características faltantes](docs/PLUGINS.md)
+- [Redirección de URLs](docs/REDIRECCION.md)
+- [Desarrollo de características propias](docs/DESARROLLO.md)
+- [Hosting](docs/HOSTING.md)
 
 ## Checklist
 - [ ] Revisar y mejorar el plugin de importación de XenForo
