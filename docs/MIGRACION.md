@@ -12,3 +12,7 @@ El [script de importación de XenForo](https://github.com/discourse/discourse/bl
 - Encuestas
 - Mensajes privados
 - Calificaciones de usuairo (cuando tenga el plugin listo)
+
+A tener en cuenta:
+
+- [No utilizar OFFSET en las queries de migración](https://github.com/discourse/discourse/pull/4194)
