@@ -1,9 +1,12 @@
 # Proceso de migración
 
-El [script de importación de XenForo](https://github.com/discourse/discourse/blob/master/script/import_scripts/xenforo.rb) es muy básico y tenemos que desarrollar la importación de:
+Estoy en proceso de desarrollar un [script de importación en masa de XenForo](https://github.com/discourse/discourse/tree/master/script/bulk_import) el cual es necesario debido a la cantidad de tiempo que con el [método tradicional](https://github.com/discourse/discourse/blob/master/script/import_scripts/xenforo.rb) tomaría. Los items a importar son:
 
+- Grupos
+- Usuarios
 - Usuarios baneados
 - Nodos
+- Temas
 - Estado de los temas (sticky, cerrado, borrado, moderado)
 - Avatares
 - Likes
@@ -11,8 +14,4 @@ El [script de importación de XenForo](https://github.com/discourse/discourse/bl
 - Passwords
 - Encuestas
 - Mensajes privados
-- Calificaciones de usuairo (cuando tenga el plugin listo)
-
-A tener en cuenta:
-
-- [No utilizar OFFSET en las queries de migración](https://github.com/discourse/discourse/pull/4194)
+- Calificaciones de usuario (cuando tenga el plugin listo)
